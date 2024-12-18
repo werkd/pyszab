@@ -1,0 +1,31 @@
+2024-12-18 22:13:14,407 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:15:07,564 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:15:18,909 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:15:23,102 - INFO - HTTP Request: GET https://c07c8e76-8d02-4261-9644-e3a0f6e43acf.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/sql "HTTP/1.1 200 OK"
+2024-12-18 22:16:45,519 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:17:15,798 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:17:22,695 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:17:31,873 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:17:36,252 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:17:43,604 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:17:53,776 - INFO - HTTP Request: GET https://c07c8e76-8d02-4261-9644-e3a0f6e43acf.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/sql "HTTP/1.1 200 OK"
+2024-12-18 22:19:11,559 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:19:21,393 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:19:29,052 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:19:38,216 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:19:51,494 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:20:45,688 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:20:46,619 - INFO - Querying document with query: how many tables are there?
+2024-12-18 22:20:48,994 - INFO - HTTP Request: GET https://c07c8e76-8d02-4261-9644-e3a0f6e43acf.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/sql "HTTP/1.1 200 OK"
+2024-12-18 22:20:50,528 - INFO - HTTP Request: POST https://api.cohere.com/v1/embed "HTTP/1.1 200 OK"
+2024-12-18 22:20:50,956 - INFO - HTTP Request: POST https://api.cohere.com/v1/embed "HTTP/1.1 200 OK"
+2024-12-18 22:20:51,777 - INFO - HTTP Request: POST https://c07c8e76-8d02-4261-9644-e3a0f6e43acf.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/sql/points/query "HTTP/1.1 200 OK"
+2024-12-18 22:20:53,314 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2024-12-18 22:20:53,649 - INFO - Query successful.
+2024-12-18 22:21:24,102 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:23:58,088 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:24:05,020 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:24:05,632 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:30:22,018 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:30:28,283 - INFO - Creating PostgreSQL engine.
+2024-12-18 22:33:34,443 - INFO - HTTP Request: GET https://c07c8e76-8d02-4261-9644-e3a0f6e43acf.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/sql "HTTP/1.1 200 OK"
